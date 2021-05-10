@@ -1,0 +1,23 @@
+main{
+width: 150px;
+margin: 0 auto;
+text-align: center;
+margin-top: 100px;
+display: grid;
+grid-template-columns: 1fr;
+}
+
+#result{  
+    margin: 0 auto;
+    text-align: center;
+    width:300px;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+    box-shadow: 5px 5px 15px 5px #000000;   
+    margin-top: 50px;
+}
+#result h1{
+    font-size: 1.5rem;
+}
+#button{
+    background-color: lightskyblue;
+}
